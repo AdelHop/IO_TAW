@@ -1,0 +1,522 @@
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-BT33G4WE7C&amp;cx=c&amp;_slc=1"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://static.mailerlite.com/js/universal.js?v1716735"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M95JN4H"></script><script async="" src="https://static.mailerlite.com/js/universal.js?171673"></script><script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	const gtm4wp_use_sku_instead = 1;
+	const gtm4wp_currency = 'PLN';
+	const gtm4wp_product_per_impression = false;
+	const gtm4wp_clear_ecommerce = false;
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script>window._wca = window._wca || [];</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v22.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Sklep - Twoje Wykroje</title>
+	<link rel="canonical" href="https://twojewykroje.pl/sklep-2/">
+	<meta property="og:locale" content="pl_PL">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Sklep - Twoje Wykroje">
+	<meta property="og:description" content="Wykroje krawieckie i&nbsp;akcesoria Edukacyjne wykroje krawieckie do&nbsp;szycia prostych ubrań. Klarowna instrukcja, intuicyjne oznaczenia – bo&nbsp;szycie nie&nbsp;musi być zagadką logiczną! Top Codzienny – darmowy wykrój Spódnica Luzacka Sukienka Swobodna Ebook “Jak zacząć szyć z&nbsp;głową” Dzianina Uniwersalna">
+	<meta property="og:url" content="https://twojewykroje.pl/sklep-2/">
+	<meta property="og:site_name" content="Twoje Wykroje">
+	<meta property="article:modified_time" content="2023-06-29T15:13:46+00:00">
+	<meta property="og:image" content="https://twojewykroje.pl/wp-content/uploads/2018/09/top-codzienny-twoje-wykroje-01.jpg">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Szacowany czas czytania">
+	<meta name="twitter:data1" content="2 minuty">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://twojewykroje.pl/sklep-2/","url":"https://twojewykroje.pl/sklep-2/","name":"Sklep - Twoje Wykroje","isPartOf":{"@id":"https://twojewykroje.pl/#website"},"primaryImageOfPage":{"@id":"https://twojewykroje.pl/sklep-2/#primaryimage"},"image":{"@id":"https://twojewykroje.pl/sklep-2/#primaryimage"},"thumbnailUrl":"https://twojewykroje.pl/wp-content/uploads/2018/09/top-codzienny-twoje-wykroje-01.jpg","datePublished":"2023-05-05T10:25:38+00:00","dateModified":"2023-06-29T15:13:46+00:00","breadcrumb":{"@id":"https://twojewykroje.pl/sklep-2/#breadcrumb"},"inLanguage":"pl-PL","potentialAction":[{"@type":"ReadAction","target":["https://twojewykroje.pl/sklep-2/"]}]},{"@type":"ImageObject","inLanguage":"pl-PL","@id":"https://twojewykroje.pl/sklep-2/#primaryimage","url":"https://twojewykroje.pl/wp-content/uploads/2018/09/top-codzienny-twoje-wykroje-01.jpg","contentUrl":"https://twojewykroje.pl/wp-content/uploads/2018/09/top-codzienny-twoje-wykroje-01.jpg","width":600,"height":900,"caption":"Top Codzienny - darmowy wykrój"},{"@type":"BreadcrumbList","@id":"https://twojewykroje.pl/sklep-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Strona główna","item":"https://twojewykroje.pl/"},{"@type":"ListItem","position":2,"name":"Sklep"}]},{"@type":"WebSite","@id":"https://twojewykroje.pl/#website","url":"https://twojewykroje.pl/","name":"Twoje Wykroje","description":"wykroje i kursy szycia online od Joulenka - Julia Dzwończyk","publisher":{"@id":"https://twojewykroje.pl/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://twojewykroje.pl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pl-PL"},{"@type":"Organization","@id":"https://twojewykroje.pl/#organization","name":"Twoje Wykroje","url":"https://twojewykroje.pl/","logo":{"@type":"ImageObject","inLanguage":"pl-PL","@id":"https://twojewykroje.pl/#/schema/logo/image/","url":"https://twojewykroje.pl/wp-content/uploads/2018/09/cropped-logo_.png","contentUrl":"https://twojewykroje.pl/wp-content/uploads/2018/09/cropped-logo_.png","width":1500,"height":211,"caption":"Twoje Wykroje"},"image":{"@id":"https://twojewykroje.pl/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="application/javascript" id="pys-version-script">console.log('PixelYourSite Free version 9.5.1.1');</script>
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="alternate" type="application/rss+xml" title="Twoje Wykroje » Kanał z wpisami" href="https://twojewykroje.pl/feed/">
+<link rel="alternate" type="application/rss+xml" title="Twoje Wykroje » Kanał z komentarzami" href="https://twojewykroje.pl/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/twojewykroje.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.4"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="font-awesome-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.4.2" media="all">
+<link rel="stylesheet" id="berocket_products_label_style-css" href="https://twojewykroje.pl/wp-content/plugins/advanced-product-labels-for-woocommerce/css/frontend.css?ver=1.2.5.3" media="all">
+<style id="berocket_products_label_style-inline-css">
+
+        .berocket_better_labels:before,
+        .berocket_better_labels:after {
+            clear: both;
+            content: " ";
+            display: block;
+        }
+        .berocket_better_labels.berocket_better_labels_image {
+            position: absolute!important;
+            top: 0px!important;
+            bottom: 0px!important;
+            left: 0px!important;
+            right: 0px!important;
+            pointer-events: none;
+        }
+        .berocket_better_labels.berocket_better_labels_image * {
+            pointer-events: none;
+        }
+        .berocket_better_labels.berocket_better_labels_image img,
+        .berocket_better_labels.berocket_better_labels_image .fa,
+        .berocket_better_labels.berocket_better_labels_image .berocket_color_label,
+        .berocket_better_labels.berocket_better_labels_image .berocket_image_background,
+        .berocket_better_labels .berocket_better_labels_line .br_alabel,
+        .berocket_better_labels .berocket_better_labels_line .br_alabel span {
+            pointer-events: all;
+        }
+        .berocket_better_labels .berocket_color_label,
+        .br_alabel .berocket_color_label {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        .berocket_better_labels .berocket_better_labels_position_left {
+            text-align:left;
+            float: left;
+            clear: left;
+        }
+        .berocket_better_labels .berocket_better_labels_position_center {
+            text-align:center;
+        }
+        .berocket_better_labels .berocket_better_labels_position_right {
+            text-align:right;
+            float: right;
+            clear: right;
+        }
+        .berocket_better_labels.berocket_better_labels_label {
+            clear: both
+        }
+        .berocket_better_labels .berocket_better_labels_line {
+            line-height: 1px;
+        }
+        .berocket_better_labels.berocket_better_labels_label .berocket_better_labels_line {
+            clear: none;
+        }
+        .berocket_better_labels .berocket_better_labels_position_left .berocket_better_labels_line {
+            clear: left;
+        }
+        .berocket_better_labels .berocket_better_labels_position_right .berocket_better_labels_line {
+            clear: right;
+        }
+        .berocket_better_labels .berocket_better_labels_line .br_alabel {
+            display: inline-block;
+            position: relative;
+            top: 0!important;
+            left: 0!important;
+            right: 0!important;
+            line-height: 1px;
+        }.berocket_better_labels .berocket_better_labels_position {
+                display: flex;
+                flex-direction: column;
+            }
+            .berocket_better_labels .berocket_better_labels_position.berocket_better_labels_position_left {
+                align-items: start;
+            }
+            .berocket_better_labels .berocket_better_labels_position.berocket_better_labels_position_right {
+                align-items: end;
+            }
+            .berocket_better_labels .berocket_better_labels_position.berocket_better_labels_position_center {
+                align-items: center;
+            }
+            .berocket_better_labels .berocket_better_labels_position .berocket_better_labels_inline {
+                display: flex;
+                align-items: start;
+            }
+</style>
+<link rel="stylesheet" id="flexible-shipping-free-shipping-notice-block-integration-blocks-integration-frontend-css" href="https://twojewykroje.pl/wp-content/plugins/flexible-shipping/assets/blocks/free-shipping-notice-block-integration/style-index.css?ver=1709294965" media="all">
+<link rel="stylesheet" id="flexible-shipping-free-shipping-notice-block-integration-blocks-integration-editor-css" href="https://twojewykroje.pl/wp-content/plugins/flexible-shipping/assets/blocks/free-shipping-notice-block-integration/style-index.css?ver=1709294965" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="https://twojewykroje.pl/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://twojewykroje.pl/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.3.4" media="all">
+<style id="jetpack-sharing-buttons-style-inline-css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="mailerlite_forms.css-css" href="https://twojewykroje.pl/wp-content/plugins/official-mailerlite-sign-up-forms/assets/css/mailerlite_forms.css?ver=1.7.5" media="all">
+<link rel="stylesheet" id="style-size_chart-css" href="https://twojewykroje.pl/wp-content/plugins/product-size-charts-for-woocommerce/assets/css/size_chart.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="topbar-css" href="https://twojewykroje.pl/wp-content/plugins/top-bar/inc/../css/topbar_style.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="woo-instagram-css" href="https://twojewykroje.pl/wp-content/plugins/woo-instagram/public/css/woo-instagram-public.css?ver=1.0.0" media="all">
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="mc4wp-form-themes-css" href="https://twojewykroje.pl/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.css?ver=4.9.11" media="all">
+<link rel="stylesheet" id="related-styles-css" href="https://twojewykroje.pl/wp-content/plugins/woo-mailerlite/includes/../public/css/style.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="oceanwp-woo-mini-cart-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="simple-line-icons-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" media="all">
+<link rel="stylesheet" id="oceanwp-style-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.5.26.1535801652" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.19.4" media="all">
+<link rel="stylesheet" id="swiper-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6" media="all">
+<link rel="stylesheet" id="elementor-post-3398-css" href="https://twojewykroje.pl/wp-content/uploads/elementor/css/post-3398.css?ver=1694795813" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://twojewykroje.pl/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.19.3" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.19.4" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.19.4" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="https://twojewykroje.pl/wp-content/uploads/elementor/css/global.css?ver=1694795814" media="all">
+<link rel="stylesheet" id="elementor-post-9091-css" href="https://twojewykroje.pl/wp-content/uploads/elementor/css/post-9091.css?ver=1694796041" media="all">
+<link rel="stylesheet" id="elementor-post-12-css" href="https://twojewykroje.pl/wp-content/uploads/elementor/css/post-12.css?ver=1694795815" media="all">
+<link rel="stylesheet" id="elementor-post-746-css" href="https://twojewykroje.pl/wp-content/uploads/elementor/css/post-746.css?ver=1694795815" media="all">
+<link rel="stylesheet" id="flexible-shipping-free-shipping-css" href="https://twojewykroje.pl/wp-content/plugins/flexible-shipping/assets/dist/css/free-shipping.css?ver=4.24.13.2" media="all">
+<link rel="stylesheet" id="carousel-slider-frontend-css" href="https://twojewykroje.pl/wp-content/plugins/carousel-slider/assets/css/frontend.css?ver=2.2.8" media="all">
+<link rel="stylesheet" id="oceanwp-woocommerce-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="oceanwp-woo-star-font-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://twojewykroje.pl/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="oe-widgets-style-css" href="https://twojewykroje.pl/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.3.4" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" media="all">
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Przepraszamy, ten produkt jest niedostępny. Prosimy wybrać inną kombinację.</p>
+</script>
+<script src="https://twojewykroje.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
+<script src="https://twojewykroje.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://twojewykroje.pl/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://twojewykroje.pl/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script src="https://twojewykroje.pl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://twojewykroje.pl/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script src="https://stats.wp.com/w.js?ver=202421" id="woo-tracks-js"></script>
+<script id="topbar_frontjs-js-extra">
+var tpbr_settings = {"fixed":"fixed","user_who":"notloggedin","guests_or_users":"all","message":"Urodzinowa promocja <b>-29% z kodem URODZINY29<\/b>. Tylko w dniach 11-15.09!","status":"inactive","yn_button":"button","color":"#a03755","button_text":"<b>ODKRYJ PRODUKTY<b>","button_url":"https:\/\/twojewykroje.pl\/flash-sale\/","button_behavior":"samewindow","is_admin_bar":"no","detect_sticky":"0"};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/top-bar/inc/../js/tpbr_front.min.js?ver=6.3.4" id="topbar_frontjs-js"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woo-instagram/public/js/woo-instagram-public.js?ver=1.0.0" id="woo-instagram-js"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.6.1" id="jquery-blockui-js" defer="" data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Zobacz koszyk","cart_url":"https:\/\/twojewykroje.pl\/koszyk\/","is_cart":"","cart_redirect_after_add":"yes"};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.6.1" id="wc-add-to-cart-js" defer="" data-wp-strategy="defer"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js" defer="" data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.6.1" id="woocommerce-js" defer="" data-wp-strategy="defer"></script>
+<script src="https://stats.wp.com/s-202421.js" id="woocommerce-analytics-js" defer="" data-wp-strategy="defer"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.19.4" id="font-awesome-4-shim-js"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.3.4" id="jquery-bind-first-js"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script>
+<script id="pys-js-extra">
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","name":"PageView","pixelIds":["763969416991176"],"eventID":"fd874045-71cb-4120-a6fc-9ab6bc55cba3","params":{"page_title":"Sklep","post_type":"page","post_id":9091,"plugin":"PixelYourSite","user_role":"guest","event_url":"twojewykroje.pl\/sklep-2\/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["763969416991176"],"advancedMatching":[],"advancedMatchingEnabled":false,"removeMetadata":false,"contentParams":{"post_type":"page","post_id":9091,"content_name":"Sklep"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":false,"wooCRSendFromServer":false,"send_external_id":null},"debug":"","siteUrl":"https:\/\/twojewykroje.pl","ajaxUrl":"https:\/\/twojewykroje.pl\/wp-admin\/admin-ajax.php","ajax_event":"312643f688","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","ajaxForServerEvent":"1","send_external_id":"1","external_id_expire":"180","google_consent_mode":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"www.joulenka.pl","TrafficLanding":"https:\/\/twojewykroje.pl\/sklep-2\/","TrafficUtms":[],"TrafficUtmsId":[]},"woo":{"enabled":true,"enabled_save_data_to_orders":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartSelector":"form.woocommerce-cart-form .remove","addToCartCatchMethod":"add_cart_hook","is_order_received_page":false,"containOrderId":false},"edd":{"enabled":false}};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.5.1.1" id="pys-js"></script>
+<script src="https://twojewykroje.pl/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src="https://twojewykroje.pl/wp-includes/js/wp-util.min.js?ver=6.3.4" id="wp-util-js"></script>
+<script id="wc-add-to-cart-variation-js-extra">
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Przepraszamy, \u017caden produkt nie spe\u0142nia twojego wyboru. Prosimy wybra\u0107 inn\u0105 kombinacj\u0119.","i18n_make_a_selection_text":"Wybierz opcje produktu przed dodaniem go do koszyka.","i18n_unavailable_text":"Przepraszamy, ten produkt jest niedost\u0119pny. Prosimy wybra\u0107 inn\u0105 kombinacj\u0119."};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.6.1" id="wc-add-to-cart-variation-js" defer="" data-wp-strategy="defer"></script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.8.6.1" id="flexslider-js" defer="" data-wp-strategy="defer"></script>
+<script id="wc-cart-fragments-js-extra">
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a93645b22ef1c0378aea917b2e8ce1a7","fragment_name":"wc_fragments_a93645b22ef1c0378aea917b2e8ce1a7","request_timeout":"5000"};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.6.1" id="wc-cart-fragments-js" defer="" data-wp-strategy="defer"></script>
+<script id="woo-ml-public-script-js-extra">
+var woo_ml_public_post = {"ajax_url":"https:\/\/twojewykroje.pl\/wp-admin\/admin-ajax.php","language":"pl_PL"};
+</script>
+<script src="https://twojewykroje.pl/wp-content/plugins/woo-mailerlite/public/js/public.js?ver=2.1.3" id="woo-ml-public-script-js"></script>
+<link rel="https://api.w.org/" href="https://twojewykroje.pl/wp-json/"><link rel="alternate" type="application/json" href="https://twojewykroje.pl/wp-json/wp/v2/pages/9091"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://twojewykroje.pl/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.3.4">
+<meta name="generator" content="WooCommerce 8.6.1">
+<link rel="shortlink" href="https://twojewykroje.pl/?p=9091">
+<link rel="alternate" type="application/json+oembed" href="https://twojewykroje.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftwojewykroje.pl%2Fsklep-2%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://twojewykroje.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftwojewykroje.pl%2Fsklep-2%2F&amp;format=xml">
+<style>.product .images {position: relative;}</style><meta name="generator" content="Site Kit by Google 1.121.0"><meta name="facebook-domain-verification" content="gobvu93tic9tgqx6a5x3esuulc6ell">            <!-- MailerLite Universal -->
+            <script>
+                (function (m, a, i, l, e, r) {
+                    m['MailerLiteObject'] = e;
+
+                    function f() {
+                        var c = {a: arguments, q: []};
+                        var r = this.push(c);
+                        return "number" != typeof r ? r : f.bind(c.q);
+                    }
+
+                    f.q = f.q || [];
+                    m[e] = m[e] || f.bind(f.q);
+                    m[e].q = m[e].q || f.q;
+                    r = a.createElement(i);
+                    var _ = a.getElementsByTagName(i)[0];
+                    r.async = 1;
+                    r.src = l + '?' + (~~(new Date().getTime() / 10000000));
+                    _.parentNode.insertBefore(r, _);
+                })(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+                var ml_account = ml('accounts', '1461142', 'j7u6t5t3w0', 'load');
+            </script>
+            <!-- End MailerLite Universal -->
+        
+<!-- This website runs the Product Feed PRO for WooCommerce by AdTribes.io plugin - version 13.2.6 -->
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Izabella Ossolińska","customerTotalOrders":0,"customerTotalOrderValue":0,"customerFirstName":"","customerLastName":"","customerBillingFirstName":"","customerBillingLastName":"","customerBillingCompany":"","customerBillingAddress1":"","customerBillingAddress2":"","customerBillingCity":"","customerBillingState":"","customerBillingPostcode":"","customerBillingCountry":"","customerBillingEmail":"","customerBillingEmailHash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","customerBillingPhone":"","customerShippingFirstName":"","customerShippingLastName":"","customerShippingCompany":"","customerShippingAddress1":"","customerShippingAddress2":"","customerShippingCity":"","customerShippingState":"","customerShippingPostcode":"","customerShippingCountry":"","cartContent":{"totals":{"applied_coupons":[],"discount_total":0,"subtotal":0,"total":0},"items":[]}};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M95JN4H');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:3026481,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script><script async="" src="//static.hotjar.com/c/hotjar-3026481.js?sv=5"></script>
+		        <!-- MailerLite Universal -->
+        <script>
+            (function (m, a, i, l, e, r) {
+                m['MailerLiteObject'] = e;
+
+                function f() {
+                    var c = {a: arguments, q: []};
+                    var r = this.push(c);
+                    return "number" != typeof r ? r : f.bind(c.q);
+                }
+
+                f.q = f.q || [];
+                m[e] = m[e] || f.bind(f.q);
+                m[e].q = m[e].q || f.q;
+                r = a.createElement(i);
+                var _ = a.getElementsByTagName(i)[0];
+                r.async = 1;
+                r.src = l + '?v' + (~~(new Date().getTime() / 1000000));
+                _.parentNode.insertBefore(r, _);
+            })(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+            window.mlsettings = window.mlsettings || {};
+            window.mlsettings.shop = 'twojewykroje.pl';
+            var ml_account = ml('accounts', '1461142', 'j7u6t5t3w0', 'load');
+            ml('ecommerce', 'visitor', 'woocommerce');
+        </script>
+        <!-- End MailerLite Universal -->
+        	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.19.4; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://twojewykroje.pl/wp-content/uploads/2018/09/cropped-fav-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://twojewykroje.pl/wp-content/uploads/2018/09/cropped-fav-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://twojewykroje.pl/wp-content/uploads/2018/09/cropped-fav-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://twojewykroje.pl/wp-content/uploads/2018/09/cropped-fav-270x270.jpg">
+		<style id="wp-custom-css">
+			.page-header{display:none}#main #content-wrap{padding-top:0;padding-bottom:0}/* menu cart */.elementor-12 .elementor-element.elementor-element-cea4e15 .elementor-menu-cart__toggle .elementor-button{border-color:#ffffff;margin-top:23px}/* menu cart END*//* slider ramka */.elementor-10 .elementor-element.elementor-element-d7d022c .elementor-repeater-item-3235fb5 .swiper-slide-contents{border:4px solid #ffffff;padding:40px}.elementor-element-27edede .elementor-element-dbb1b78 .elementor-column-wrap.elementor-element-populated,#elementor-element-df36eb8{padding:0}/* INSTAGRAM */.instagallery-actions{position:absolute;top:42%;left:43%}#ig-block-1 .instagallery-actions .igact-instalink{background:#ffffff;color:#000!important}#ig-block-1 .instagallery-actions .igact-instalink:hover{background:#ffffff;color:#000000}.elementor-column-wrap.elementor-element-populated{padding:0}.instagallery-actions{position:absolute;left:0;right:0;margin-left:auto;margin-right:auto;width:300px}/* INSTAGRAM END *//*remove quick view and stock */.owp-quick-view:hover,.owp-quick-view,.woocommerce ul.products li.product.outofstock .outofstock-badge{display:none}/*znikniecei buttonow */.page-id-24 .elementor-element-85206bb .products .product-inner .btn-wrap .button.add_to_cart_button{display:none}.page-id-24 .elementor-element-85206bb .products .product-inner .btn-wrap .button.product_type_simple{display:none}/*znikniecei buttonow END*//* FONTY *//* usuniecie kategorii produktu */.woocommerce ul.products li.product li.category{display:none}.elementor-widget-woocommerce-product-meta .product_meta{display:none}/*hover foty*//* border na hoverze*/.image-wrap{border-bottom:2px solid #ffffff }.image-wrap:hover{border-bottom:2px solid #cf99a1 }/*border na hoverze end*//*kolor quick view*/.owp-quick-view:hover,.owp-quick-view{background-color:rgba(255,255,255,0.9);color:#a03755}/*hover foty*/.woocommerce ul.products li.product .button{background:#cf99a1;color:#ffffff}.woocommerce ul.products li.product .button:hover{border-color:#4d515d;background:#c68b97;color:#fff}/* labels *//*etykieta brak w magazynie*/.outofstock-badge{position:absolute;left:15px;bottom:15px;z-index:100;background:rgba(255,255,255,0.8);padding:10px;width:40%;border-radius:50px}/* promocja *//* font walsheim */#ig-block-1 .instagallery-actions .igact-instalink,.woocommerce-Tabs-panel,.woocommerce-product-details__short-description,.tabs.wc-tabs .description_tab,.additional_information_tab,.wymiary_tab,.single_add_to_cart_button.button,.button,.elementor-add-to-cart.elementor-product-simple,.mc4wp-form-fields p,.elementor-menu-cart__product-name.product-name a,.woocommerce-Price-amount.amount,.elementor-menu-cart__footer-buttons a .elementor-button-text,.checkout.woocommerce-checkout.customize-unpreviewable,.woocommerce-message{font-family:"Walsheim",Sans-serif}.woo-entry-inner .title,.elementor-widget-container .product_title{font-family:"Walsheim",Sans-serif;font-weight:bold;text-transform:uppercase}.mc4wp-form-theme-dark button,.mc4wp-form-theme-dark input[type=submit]{color:#fff!important;background-color:#cf99a1!important;border-color:#cf99a1}/* button w produkcie */.woocommerce-product-details__short-description .button-product{width:40%}@media only screen and (max-width:520px){.woocommerce-product-details__short-description .button-product{width:90%;margin:0 auto;display:block}}.woocommerce-product-details__short-description .instagallery-actions{display:none}body{color:#4d515d}.insta-gallery-feed .insta-gallery-actions,.insta-gallery-feed .insta-gallery-image,.insta-gallery-feed .insta-gallery-item{opacity:0!important}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */.woocommerce-MyAccount-navigation ul li a:before,.woocommerce-checkout .woocommerce-info a,.woocommerce-checkout #payment ul.payment_methods .wc_payment_method>input[type=radio]:first-child:checked+label:before,.woocommerce-checkout #payment .payment_method_paypal .about_paypal,.woocommerce ul.products li.product li.category a:hover,.woocommerce ul.products li.product .button:hover,.woocommerce ul.products li.product .product-inner .added_to_cart:hover,.product_meta .posted_in a:hover,.product_meta .tagged_as a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce .oceanwp-grid-list a.active,.woocommerce .oceanwp-grid-list a:hover,.woocommerce .oceanwp-off-canvas-filter:hover,.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid a.remove:hover,.widget_product_categories li a:hover ~ .count,.widget_layered_nav li a:hover ~ .count,.woocommerce ul.products li.product:not(.product-category) .woo-entry-buttons li a:hover,a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#4d515d}.woocommerce .oceanwp-grid-list a.active .owp-icon use,.woocommerce .oceanwp-grid-list a:hover .owp-icon use,.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#4d515d}.woocommerce div.product div.images .open-image,.wcmenucart-details.count,.woocommerce-message a,.woocommerce-error a,.woocommerce-info a,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.owp-product-nav li a.owp-nav-link:hover,.woocommerce div.product.owp-tabs-layout-vertical .woocommerce-tabs ul.tabs li a:after,.woocommerce .widget_product_categories li.current-cat >a ~ .count,.woocommerce .widget_product_categories li.current-cat >a:before,.woocommerce .widget_layered_nav li.chosen a ~ .count,.woocommerce .widget_layered_nav li.chosen a:before,#owp-checkout-timeline .active .timeline-wrapper,.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count,.show-cart .wcmenucart-cart-icon .wcmenucart-count,.woocommerce ul.products li.product:not(.product-category) .image-wrap .button,input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#4d515d}.thumbnail:hover .link-post-svg-icon{background-color:#4d515d}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#4d515d}.current-shop-items-dropdown{border-top-color:#4d515d}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-bottom-color:#4d515d}.wcmenucart-details.count:before{border-color:#4d515d}.woocommerce ul.products li.product .button:hover{border-color:#4d515d}.woocommerce ul.products li.product .product-inner .added_to_cart:hover{border-color:#4d515d}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-color:#4d515d}.woocommerce .oceanwp-grid-list a.active{border-color:#4d515d}.woocommerce .oceanwp-grid-list a:hover{border-color:#4d515d}.woocommerce .oceanwp-off-canvas-filter:hover{border-color:#4d515d}.owp-product-nav li a.owp-nav-link:hover{border-color:#4d515d}.widget_shopping_cart_content .buttons .button:first-child:hover{border-color:#4d515d}.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid a.remove:hover{border-color:#4d515d}.widget_product_categories li a:hover ~ .count{border-color:#4d515d}.woocommerce .widget_product_categories li.current-cat >a ~ .count{border-color:#4d515d}.woocommerce .widget_product_categories li.current-cat >a:before{border-color:#4d515d}.widget_layered_nav li a:hover ~ .count{border-color:#4d515d}.woocommerce .widget_layered_nav li.chosen a ~ .count{border-color:#4d515d}.woocommerce .widget_layered_nav li.chosen a:before{border-color:#4d515d}#owp-checkout-timeline.arrow .active .timeline-wrapper:before{border-top-color:#4d515d;border-bottom-color:#4d515d}#owp-checkout-timeline.arrow .active .timeline-wrapper:after{border-left-color:#4d515d;border-right-color:#4d515d}.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count{border-color:#4d515d}.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count:after{border-color:#4d515d}.show-cart .wcmenucart-cart-icon .wcmenucart-count{border-color:#4d515d}.show-cart .wcmenucart-cart-icon .wcmenucart-count:after{border-color:#4d515d}.woocommerce ul.products li.product:not(.product-category) .woo-product-gallery .active a{border-color:#4d515d}.woocommerce ul.products li.product:not(.product-category) .woo-product-gallery a:hover{border-color:#4d515d}.widget-title{border-color:#4d515d}blockquote{border-color:#4d515d}#searchform-dropdown{border-color:#4d515d}.dropdown-menu .sub-menu{border-color:#4d515d}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#4d515d}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#4d515d}.social-widget li.oceanwp-email a:hover{border-color:#4d515d}#respond #cancel-comment-reply-link:hover{border-color:#4d515d}body .contact-info-widget.big-icons li:hover i{border-color:#4d515d}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#4d515d}blockquote,.wp-block-quote{border-left-color:#4d515d}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#4d515d}.woocommerce div.product div.images .open-image:hover,.woocommerce-error a:hover,.woocommerce-info a:hover,.woocommerce-message a:hover,.woocommerce-message a:focus,.woocommerce .button:focus,.woocommerce ul.products li.product:not(.product-category) .image-wrap .button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#66696f}a{color:#cf99a1}a .owp-icon use{stroke:#cf99a1}a:hover{color:#c68b97}a:hover .owp-icon use{stroke:#c68b97}.container{width:1280px}.site-breadcrumbs,.background-image-page-header .site-breadcrumbs{color:#4d515d}.site-breadcrumbs a,.background-image-page-header .site-breadcrumbs a{color:#4d515d}.site-breadcrumbs a .owp-icon use,.background-image-page-header .site-breadcrumbs a .owp-icon use{stroke:#4d515d}.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#66696f}.site-breadcrumbs a:hover .owp-icon use,.background-image-page-header .site-breadcrumbs a:hover .owp-icon use{stroke:#66696f}#scroll-top{width:35px;height:35px;line-height:35px}#scroll-top{font-size:23px}#scroll-top .owp-icon{width:23px;height:23px}#scroll-top{border-radius:40px}#scroll-top{background-color:#cf99a1}#scroll-top:hover{background-color:#b78794}.page-numbers a,.page-numbers span:not(.elementor-screen-only),.page-links span{color:#4d515d}.page-numbers a .owp-icon use{stroke:#4d515d}.page-numbers a:hover,.page-links a:hover span,.page-numbers.current,.page-numbers.current:hover{color:#4d515d}.page-numbers a:hover .owp-icon use{stroke:#4d515d}label,body div.wpforms-container-full .wpforms-form .wpforms-field-label{color:#4d515d}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{color:#4d515d}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{color:#4d515d}body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#cf99a1}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active{background-color:#cf99a1}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:67px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.mobile-menu-close,.after-header-content-inner >a{line-height:67px}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* Footer Widgets CSS */#footer-widgets{background-color:#ffffff}/* Footer Bottom CSS */#footer-bottom{background-color:#66696f}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#ffd8e9}/* WooCommerce CSS */.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid .amount{color:#c68b97}.widget_shopping_cart .total .amount{color:#c68b97}.woocommerce div.product div.images,.woocommerce.content-full-width div.product div.images{width:42%}.woocommerce div.product div.summary,.woocommerce.content-full-width div.product div.summary{width:47%}#owp-checkout-timeline .timeline-step{color:#cccccc}#owp-checkout-timeline .timeline-step{border-color:#cccccc}.woocommerce span.onsale{background-color:#c68b97}.woocommerce .star-rating span,.woocommerce .star-rating span:before{color:#c68b97}.woocommerce ul.products li.product .price,.woocommerce ul.products li.product .price .amount{color:#a03755}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{background-color:#c68b97}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{color:#ffffff}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{border-color:#c68b97}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{border-style:none}.price,.amount{color:#c68b97}/* Typography CSS */body{font-size:16px}
+</style><link rel="stylesheet" type="text/css" href="https://static.mailerlite.com/css/universal.css?v4" media="all"><script type="text/javascript" async="" src="https://app.mailerlite.com/proxy/abdata/?url=/1461/1461142/universal/j7u6t5t3w0_popups.js&amp;v=1716735986"></script><script src="https://twojewykroje.pl/wp-includes/js/wp-emoji-release.min.js?ver=6.3.4" defer=""></script><style></style><script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script><style type="text/css">/* Copyright 2014-present Evernote Corporation. All rights reserved. */
+@keyframes caretBlink {
+    from { opacity: 1.0; }
+    to { opacity: 0.0; }
+}
+
+@keyframes rotateSpinner {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+#text-tool-caret {
+    animation-name: caretBlink;  
+    animation-iteration-count: infinite;  
+    animation-timing-function: cubic-bezier(1.0,0,0,1.0);
+    animation-duration: 1s; 
+}
+
+#en-markup-loading-spinner {
+    position: absolute;
+    top: calc(50% - 16px);
+    left: calc(50% - 16px);
+    width: 32px;
+    height: 32px;
+}
+
+#en-markup-loading-spinner img {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    animation-name: rotateSpinner;
+    animation-duration: 0.6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+</style><style type="text/css">/* Copyright 2014-present Evernote Corporation. All rights reserved. */
+.skitchToastBoxContainer {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    pointer-events: none;
+}
+
+.skitchToastBox {
+    width: 200px;
+    height: 16px;
+    padding: 12px;
+    background-color: rgba(47, 55, 61, 0.95);
+    border-radius: 4px;
+    color: white;
+    cursor: default;
+    font-size: 10pt;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.32);
+    font-family: 'Soleil', Helvetica, Arial, sans-serif;
+    border: 2px rgba(255, 255, 255, 0.38) solid;
+}
+
+.lang-zh-cn .skitchToastBox {
+    font-family: '微软雅黑', 'Microsoft YaHei', SimSun,
+        '&#x30E1;&#x30A4;&#x30EA;&#x30AA;', Meiryo, 'MS PGothic', 'Soleil',
+        Helvetica, Arial, sans-serif;
+}
+
+.lang-ja-jp .skitchToastBox {
+    font-family: '&#x30E1;&#x30A4;&#x30EA;&#x30AA;', Meiryo, 'MS PGothic',
+        '微软雅黑', 'Microsoft YaHei', SimSun, 'Soleil', Helvetica, Arial,
+        sans-serif;
+}
+
+.skitchToast {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    height: 10px;
+    color: #f1f5f8;
+    text-align: center;
+}
+
+.skitchVisible {
+    /* Don't remove this class it's a hack used by the Evernote Clipper */
+}
+</style><style type="text/css">/* Copyright 2014-present Evernote Corporation. All rights reserved. */
+
+@font-face {
+	font-family: 'Soleil';
+		font-weight: normal;
+	font-style: normal;
+}
+</style><style type="text/css">/* Copyright 2019-present Evernote Corporation. All rights reserved. */
+
+#en-markup-disabled {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    cursor: default;
+    -webkit-user-select: none;
+}
+
+#en-markup-alert-container {
+    position: absolute;
+    z-index: 9999;
+    width: 450px;
+    left: calc(50% - 225px);
+    top: calc(50% - 85px);
+    background-color: white;
+    box-shadow: 0 2px 7px 1px rgba(0,0,0,0.35);
+    -webkit-user-select: none;
+}
+
+#en-markup-alert-container .cell-1 {
+    position: relative;
+    height: 110px;
+    width: 105px;
+    float: left;
+    text-align: center;
+    background-image: url(data:image/png;base64,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);
+    background-position: 65% 50%;
+    background-repeat: no-repeat;
+}
+
+#en-markup-alert-container .cell-2 {
+    position: relative;
+    float: left;
+    width: 345px;
+    margin-top: 29px;
+    margin-bottom: 20px;
+}
+
+#en-markup-alert-container .cell-2 .cell-2-title {
+    margin-bottom: 5px;
+    padding-right: 30px;
+    font-size: 12pt;
+    font-family: Tahoma, Arial;
+}
+
+#en-markup-alert-container .cell-2 .cell-2-message {
+    padding-right: 30px;
+    font-size: 9.5pt;
+    font-family: Tahoma, Arial;
+}
+
+#en-markup-alert-container .cell-3 {
+    position: relative;
+    width: 450px;
+    height: 60px;
+    float: left;
+    background-color: rgb(240,240,240);
+}
+
+#en-markup-alert-container .cell-3 button {
+    position: absolute;
+    top: 12px;
+    right: 15px;
+    width: 110px;
+    height: 36px;
+}
+
+#en-markup-alert-container .cell-3 button.alt-button {
+    position: absolute;
+    top: 12px;
+    right: 140px;
+    width: 110px;
+    height: 36px;
+}
+</style></head>
