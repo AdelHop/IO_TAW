@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opis strony WWW</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container">
+            <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="navbar-brand" href="../index.html">
+                        <img src="../images/logo.png" alt="Adelina" height="80">
+                    </a></li>
+                    <li class="nav-item">
+                        <a class="btn btn-outline-secondary nav-link mx-2" href="materials.html">Materiały</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-outline-secondary nav-link mx-2" href="projects/projects.html">Projekty</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="btn btn-outline-secondary nav-link mx-2" href="gallery.html">Galeria</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-outline-secondary nav-link mx-2" href="summary.html">Opis budowy strony</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded d-flex flex-column align-items-center">
+                <h1 class="mb-4 text-center"><b>Opis Projektu - Responsywny Serwis WWW</b></h1>
+                <h2 class="text-center">Adela Hopek <br> Inżynieria Oprogramowania 2023/2024</h2>
+            </div>
+        </section>
+    
+
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>Diagram UML</h2>
+                    <div class="diagram">
+                        <img src="////www.plantuml.com/plantuml/png/jLJDpjCm4Bn_Jx7SYfJ0FGVKgYe5YH-4a7gCJBnDJHrli9r2G5nuDzuBjqxa_AIabVXoYQEPdSnEThCqbcbR5VBX2SUzK0WVD-jFgtVRDnl893Fc0SBLmLuhZj_XPm-rmafCOCLH2iLwK0oYOBa39UNqh5Jv05NibC1RPb4B9aq47pHzmSowqvP9YRgEOFMPAWkbKndK6aSKf19uXPfWSNbHvCr4mD5aMfHdmjDhTMkIqfzXaJ5DbK7f_Pf-pQ_fC8BnVmO2SKlyyxiUUM4wEoGWL5dP2FP2EkA0a_iaaiRQJSxQ76UCUTxHrjSYsfAbRmmuWVbn9ES_9FNy93XIB-a8dEpnQjulIQEni7Ut4-hRbMPwzHvJJkdPewodUsuwXNZSqnrvnrsJ2HHXSYrc1oM-LZT-89z5scGnOtcGtEFwxGJhXQVDEV0iTTUi1cs_rMdfIDFoxqjXm5XDgeRTRlVVrwRtw7zgSVoYiz79PGAdQM6z6bP0sin6G6XuGZe8Ekfue6SA1iFKqfUeU5N8lm00" alt="Diagram UML">
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>1. Strona główna</h2>
+                    <p><strong>Link:</strong> <a href="index.html">index.html</a></p>
+                    <p><strong>Opis:</strong> Strona główna zawiera nagłówek z nawigacją oraz sekcję powitalną z dużym obrazem i krótkim opisem autorki serwisu. Znajduje się tu również karuzela z obrazami prezentującymi różne kolekcje, oraz odnośniki do stron z materiałami, technikami, projektami, trikami i galerią.</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS</p>
+                 </div>
+            </div>
+        </section>
+
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>2. Strona Materiały</h2>
+                    <p><strong>Link:</strong> <a href="materials.html">materials.html</a></p>
+                    <p><strong>Opis:</strong> Strona przedstawia różne materiały używane w projektach. Użytkownicy mogą przeszukiwać obrazy materiałów za pomocą paska wyszukiwania i filtra. Każdy obrazek jest interaktywny i prowadzi do większej wersji w galerii lightbox.</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS, jQuery</p>
+                    <p><strong>Skrypt JS:</strong> Funkcja <code>filterImages()</code> do filtrowania obrazów na podstawie wpisanego tekstu i wybranego filtra materiałów.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>3. Strona Projekty</h2>
+                    <p><strong>Link:</strong> <a href="projects/projects.html">projects.html</a></p>
+                    <p><strong>Opis:</strong> Strona prezentuje szczegółowe opisy dwóch głównych projektów: "Gotowa do szkoły" oraz "Forest forever". Każdy projekt zawiera karuzelę obrazów lub wideo oraz szczegółowy opis użytych materiałów i technik.</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS</p>
+                    <p><strong>Skrypt JS:</strong> Skrypt do przełączania między karuzelą a wideo.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>4. Strona Projektu "Gotowa do szkoły"</h2>
+                    <p><strong>Link:</strong> <a href="projects/gotowa_do_szkoly.html">gotowa_do_szkoly.html</a></p>
+                    <p><strong>Opis:</strong> Strona zawiera szczegółowy opis projektu "Gotowa do szkoły" z obrazami w karuzeli oraz szczegółowymi informacjami na temat użytych materiałów i technik. Projekt jest skierowany na strój na 1 września dla małej baletnicy.</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>5. Strona Projektu "Forest forever"</h2>
+                    <p><strong>Link:</strong> <a href="projects/forest_forever.html">forest_forever.html</a></p>
+                    <p><strong>Opis:</strong> Strona prezentuje projekt "Forest forever", zawierający zestaw ubrań dla mamy i dwóch córek. Znajduje się tu opis różnych elementów ubioru oraz karuzela obrazów.</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS</p>
+                </div>
+            </div>
+        </section>
+        
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>6. Strona Galeria</h2>
+                    <p><strong>Link:</strong> <a href="gallery.html">gallery.html</a></p>
+                    <p><strong>Opis:</strong> Strona Galeria prezentuje różnorodne zdjęcia i obrazy związane z projektami. Użytkownicy mogą przeglądać zdjęcia w galerii lightbox2</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS</p>
+                    <p><strong>Skrypt JS:</strong> Funkcja <code>initLightbox()</code> do inicjalizacji galerii lightbox oraz <code>filterGallery()</code> do filtrowania obrazów według kategorii.</p>
+                </div>
+            </div>
+        </section>
+        
+
+        <section class="content-section py-5">
+            <div class="container bg-light p-4 rounded">
+                <div class="col-md-12 align-items-center">
+                    <h2>7. Opis strony WWW</h2>
+                    <p><strong>Link:</strong> <a href="summary.html">summary.html</a></p>
+                    <p><strong>Opis:</strong> Dokument zawiera szczegółowy opis budowy i struktury responsywnego serwisu internetowego. Znajdują się tu informacje o nagłówku z nawigacją, diagram UML, oraz opisy poszczególnych stron serwisu. Każda z opisanych stron zawiera link do niej, szczegółowy opis zawartości oraz listę technologii użytych do jej stworzenia.</p>
+                    <p><strong>Technologie:</strong> HTML, Bootstrap, CSS</p>
+                </div>
+            </div>
+        </section>
+
+        <footer class="bg-dark text-white text-center py-3">
+            <p>&copy; 2024 Adelina. Wszelkie prawa zastrzeżone.</p>
+        </footer>
+
+
+</body>
+</html>
